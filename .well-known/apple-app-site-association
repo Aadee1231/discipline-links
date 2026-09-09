@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5DSGUUMYQA.com.aadee7.LockIn"
+        ],
+        "components": [
+          {
+            "/": "/nfc/*"
+          }
+        ]
+      }
+    ]
+  }
+}
